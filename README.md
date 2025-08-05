@@ -24,13 +24,13 @@ The chatbot helps students quickly find information about academics, admissions,
 ## 📸 Screenshots
 
 ### Main Interface
-![Chatbot Screenshot 1]()
+![Chatbot Screenshot 1](https://github.com/Disha-Chigarannavar/Chatbot-fro-college-website/blob/main/Chatbot.jpg?raw=true)
 
 ### Chat Window Open
-![Chatbot Screenshot 2](URL-of-screenshot-2)
+![Chatbot Screenshot 2](https://github.com/Disha-Chigarannavar/Chatbot-fro-college-website/blob/main/Chatbot%202.jpg?raw=true)
 
 ### FAQ Options
-![Chatbot Screenshot 3](URL-of-screenshot-3)
+![Chatbot Screenshot 3](https://github.com/Disha-Chigarannavar/Chatbot-fro-college-website/blob/main/Chatbot%203.jpg?raw=true)
 
 
 ## 📂 Project Structure
