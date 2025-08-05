@@ -34,12 +34,13 @@ The chatbot helps students quickly find information about academics, admissions,
 
 
 ## 📂 Project Structure
+```plaintext
 Chatbot-fro-college-website/
 │
-├── chatbot.html # Main HTML file containing the chatbot interface, styles, and JavaScript logic
-├── README.md # Project documentation with details, usage, and screenshots
-├── .gitattributes # Git attributes configuration file
-└── assets/ # (Optional) Folder to store screenshots or future resources
-├── screenshot1.png
-├── screenshot2.png
-└── screenshot3.png
+├── chatbot.html        # Main HTML file containing the chatbot interface, styles, and JavaScript logic
+├── README.md           # Project documentation with details, usage, and screenshots
+├── .gitattributes      # Git attributes configuration file
+└── assets/             # (Optional) Folder to store screenshots or future resources
+    ├── screenshot1.png
+    ├── screenshot2.png
+    └── screenshot3.png
