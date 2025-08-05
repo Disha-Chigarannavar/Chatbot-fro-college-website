@@ -21,12 +21,16 @@ The chatbot helps students quickly find information about academics, admissions,
 
 ---
 
-## 📸 Screenshot
-Here’s what the chatbot looks like:  
+## 📸 Screenshots
 
-![Chatbot Screenshot](screenshot.png)  
-*(Make sure to upload a screenshot of your chatbot UI in your repository and rename it to `screenshot.png`)*
+### Main Interface
+![Chatbot Screenshot 1]()
 
----
+### Chat Window Open
+![Chatbot Screenshot 2](URL-of-screenshot-2)
+
+### FAQ Options
+![Chatbot Screenshot 3](URL-of-screenshot-3)
+
 
 ## 📂 Project Structure
